@@ -1,0 +1,1001 @@
+Age,Sex,Job,Housing,Saving accounts,Checking account,Duration,Credit_Amount,Risk,Exposure_at_Default
+67,male,skilled,own,little,little,6,15.295,0,
+22,female,skilled,own,little,moderate,48,19.34,1,10.06102996
+49,male,unskilled_and_non-resident,own,little,little,12,17.432,0,
+45,male,skilled,free,little,little,42,15.811,1,6.876086499
+53,male,skilled,free,little,little,24,19.606,1,11.93440835
+35,male,unskilled_and_non-resident,free,little,little,36,16.34,1,8.5492316
+53,male,skilled,own,quite rich,moderate,24,15.451,0,
+35,male,highly skilled,rent,little,moderate,36,16.08,0,
+61,male,unskilled_and_non-resident,own,rich,moderate,12,18.136,0,
+28,male,highly skilled,own,little,moderate,30,16.842,0,
+25,female,skilled,rent,little,moderate,12,15.107,1,14.32085739
+24,female,skilled,rent,little,little,48,18.432,1,10.7169972
+22,female,skilled,own,little,moderate,12,19.783,0,
+60,male,unskilled_and_non-resident,own,little,little,24,18.816,1,12.6473732
+28,female,skilled,rent,little,little,15,20.094,0,
+32,female,unskilled_and_non-resident,own,moderate,little,24,17.429,0,
+53,male,skilled,own,little,moderate,24,15.616,0,
+25,male,skilled,own,little,little,30,15.762,0,
+44,female,unskilled_and_non-resident,free,little,moderate,24,20.065,1,13.77580533
+31,male,skilled,own,quite rich,moderate,24,19.02,0,
+48,male,skilled,own,little,little,9,15.762,0,
+44,male,skilled,rent,quite rich,little,6,20.467,0,
+48,male,unskilled_and_non-resident,rent,little,little,10,17.588,0,
+44,male,skilled,own,moderate,moderate,12,16.303,0,
+26,male,skilled,own,little,moderate,10,19.944,0,
+36,male,unskilled_and_non-resident,own,little,little,6,18.797,0,
+39,male,unskilled_and_non-resident,own,little,little,6,15.232,0,
+42,female,skilled,rent,rich,rich,12,15.304,0,
+34,male,skilled,own,little,moderate,7,15.637,0,
+63,male,skilled,own,little,little,60,15.994,1,1.759167606
+36,male,skilled,own,rich,moderate,18,20.407,0,
+27,male,skilled,own,little,little,24,20.936,0,
+30,male,skilled,own,moderate,moderate,18,15.5,0,
+57,male,unskilled_and_non-resident,rent,little,moderate,12,20.193,0,
+33,female,highly skilled,own,little,rich,12,19.985,0,
+25,male,unskilled_and_non-resident,own,little,moderate,45,18.127,0,
+31,male,skilled,free,little,little,48,15.937,1,7.687304361
+37,male,skilled,own,little,rich,18,18.085,0,
+37,male,skilled,own,little,rich,10,20.607,0,
+24,male,skilled,own,little,moderate,9,16.499,0,
+30,male,highly skilled,own,quite rich,moderate,30,20.043,0,
+26,male,skilled,own,quite rich,moderate,12,18.884,0,
+44,male,unskilled_and_non-resident,own,little,moderate,18,16.058,0,
+24,male,skilled,rent,moderate,little,30,19.002,0,
+58,female,unskilled_and_non-resident,free,little,little,48,15.809,1,4.427480806
+35,female,highly skilled,own,little,little,11,15.45,0,
+39,male,skilled,own,quite rich,moderate,36,19.097,0,
+23,female,unskilled_and_non-resident,rent,quite rich,little,6,19.819,0,
+39,male,unskilled_and_non-resident,own,little,little,11,17.566,0,
+28,female,skilled,own,moderate,moderate,12,18.441,0,
+29,male,unskilled_and_non-resident,own,little,moderate,24,15.855,0,
+30,male,highly skilled,own,little,moderate,27,15.264,0,
+25,male,skilled,own,little,little,12,16.27,0,
+31,male,skilled,own,little,moderate,18,20.651,0,
+57,male,skilled,free,little,moderate,36,16.21,1,7.756287
+26,male,unskilled_and_non-resident,own,little,moderate,6,17.982,0,
+52,male,unskilled_and_non-resident,own,little,moderate,12,15.987,1,12.41705842
+31,female,skilled,own,little,little,36,16.559,0,
+23,female,highly skilled,own,little,rich,18,19.648,0,
+23,female,unskilled_and_non-resident,rent,little,little,36,15.174,1,9.320769092
+27,male,skilled,own,little,moderate,9,16.063,0,
+50,male,skilled,own,little,moderate,15,19.415,0,
+61,male,highly skilled,free,little,moderate,36,15.28,1,5.57245898
+25,male,skilled,own,little,moderate,48,15.399,1,7.455022862
+26,female,skilled,own,little,little,24,18.018,0,
+48,male,skilled,own,little,moderate,27,17.984,0,
+29,female,skilled,own,little,little,12,17.605,0,
+22,male,skilled,own,rich,moderate,12,19.505,0,
+37,male,skilled,free,little,little,36,15.897,1,9.022184318
+25,female,skilled,own,little,moderate,36,15.456,0,
+30,female,skilled,own,little,little,36,18.174,0,
+46,male,unskilled_and_non-resident,rent,little,moderate,7,19.087,0,
+51,male,highly skilled,free,little,little,8,20.284,0,
+41,female,unskilled_and_non-resident,own,little,moderate,42,15.661,0,
+40,male,unskilled_and_non-resident,own,little,little,36,17.501,1,9.767909035
+66,male,highly skilled,free,little,little,12,20.943,0,
+34,male,skilled,own,little,little,42,17.22,0,
+51,male,skilled,own,little,moderate,11,19.885,0,
+39,male,unskilled_and_non-resident,own,little,moderate,54,19.428,0,
+22,male,skilled,own,little,moderate,30,20.822,0,
+44,female,skilled,own,little,moderate,24,17.075,1,10.69457025
+47,male,skilled,own,quite rich,moderate,15,19.205,0,
+24,female,unskilled_and_non-resident,rent,moderate,moderate,18,20.441,0,
+58,female,unskilled_and_non-resident,own,little,little,24,17.144,0,
+52,male,unskilled_and_non-resident,own,little,little,10,18.473,0,
+29,female,highly skilled,own,little,little,12,20.055,0,
+27,female,skilled,own,little,moderate,18,19.067,0,
+47,male,skilled,free,moderate,moderate,36,15.814,1,8.876417982
+30,male,highly skilled,own,moderate,little,18,15.537,0,
+28,male,skilled,own,moderate,moderate,12,19.656,0,
+56,male,skilled,own,little,little,12,16.166,0,
+54,male,skilled,own,little,little,12,16.603,0,
+33,female,unskilled_and_non-resident,own,little,moderate,12,19.859,0,
+20,male,skilled,rent,little,rich,24,15.695,0,
+54,male,skilled,own,rich,moderate,12,16.321,0,
+58,male,skilled,rent,little,little,54,18.443,1,5.950011403
+61,female,skilled,own,little,moderate,12,19.176,0,
+34,male,skilled,own,moderate,moderate,18,17.001,0,
+36,male,skilled,own,little,moderate,36,17.739,0,
+36,male,highly skilled,rent,little,moderate,20,18.044,0,
+41,male,unskilled_and_non-resident,rent,moderate,moderate,24,16.827,0,
+24,male,skilled,rent,little,moderate,36,18.736,0,
+24,female,skilled,own,little,little,6,15.62,0,
+35,male,skilled,rent,little,moderate,9,18.407,0,
+26,male,skilled,rent,little,little,12,18.215,1,18.39337162
+39,male,unskilled_and_non-resident,own,little,moderate,24,18.316,1,14.20862508
+39,male,highly skilled,own,moderate,moderate,18,19.587,0,
+32,male,skilled,own,little,moderate,12,19.303,0,
+30,female,skilled,own,little,little,24,16.259,0,
+35,male,skilled,own,quite rich,moderate,14,16.779,0,
+31,male,skilled,own,moderate,moderate,6,19.458,0,
+23,female,skilled,rent,little,rich,15,19.356,0,
+28,male,unskilled_and_non-resident,rent,little,moderate,18,20.865,0,
+25,female,skilled,own,little,little,36,17.579,1,11.86216901
+35,male,skilled,own,quite rich,little,12,19.244,0,
+47,male,skilled,own,little,moderate,48,19.218,0,
+30,female,highly skilled,own,little,little,42,20.042,0,
+27,female,skilled,rent,little,little,10,17.272,1,16.4558959
+23,female,skilled,own,quite rich,little,33,16.582,1,11.79791007
+36,male,highly skilled,own,quite rich,moderate,12,20.679,0,
+25,female,skilled,own,little,little,21,18.056,1,15.38030578
+41,female,highly skilled,rent,little,little,24,18.344,1,14.47282985
+24,male,unskilled_and_non-resident,rent,little,little,12,15.314,1,15.01638423
+63,male,skilled,free,little,rich,10,18.424,0,
+27,female,skilled,rent,little,little,18,16.605,1,14.58282168
+30,male,skilled,own,little,little,12,18.962,0,
+40,male,unskilled_and_non-resident,own,little,little,12,19.16,0,
+30,male,skilled,own,moderate,moderate,12,15.837,0,
+34,male,highly skilled,own,little,moderate,12,18.976,0,
+29,female,skilled,own,little,little,12,18.086,0,
+24,female,skilled,own,little,moderate,48,15.09,0,
+29,male,skilled,own,little,little,36,19.108,1,12.26549492
+27,male,unskilled_and_non-resident,own,little,little,15,15.446,0,
+47,male,skilled,free,little,little,18,16.458,0,
+21,female,skilled,own,moderate,moderate,60,18.082,0,
+38,female,skilled,own,little,moderate,12,16.007,0,
+27,male,skilled,own,rich,moderate,27,16.489,0,
+66,male,unskilled_and_non-resident,own,quite rich,moderate,12,15.301,0,
+35,male,skilled,own,little,moderate,15,20.9,0,
+44,female,unskilled_and_non-resident,rent,little,rich,12,16.837,0,
+27,male,unskilled_and_non-resident,own,rich,rich,6,20.338,0,
+30,female,highly skilled,own,little,moderate,36,18.498,0,
+27,male,highly skilled,own,little,little,27,17.733,0,
+22,male,skilled,own,moderate,moderate,18,20.649,0,
+23,female,skilled,own,little,little,21,17.727,0,
+30,male,skilled,own,moderate,moderate,48,18.487,0,
+39,female,skilled,own,little,little,6,18.044,0,
+51,female,skilled,own,moderate,moderate,12,16.229,0,
+28,male,skilled,own,little,little,36,18.101,0,
+46,male,skilled,own,rich,moderate,18,19.35,0,
+42,male,skilled,free,moderate,moderate,6,15.126,0,
+38,male,skilled,own,little,little,10,19.366,0,
+24,male,skilled,own,little,rich,36,20.692,0,
+29,female,skilled,rent,rich,moderate,24,16.494,0,
+36,male,highly skilled,rent,moderate,moderate,24,17.842,0,
+20,female,skilled,rent,little,little,12,17.275,1,16.24827568
+48,male,skilled,own,moderate,little,9,20.093,0,
+45,male,unskilled_and_non-resident,own,little,little,12,17.555,0,
+38,male,skilled,own,moderate,moderate,24,17.453,0,
+34,male,unskilled_and_non-resident,own,little,moderate,6,18.648,0,
+36,male,skilled,own,moderate,moderate,24,15.489,0,
+30,female,skilled,own,little,little,18,19.428,0,
+36,male,skilled,own,quite rich,moderate,15,18.954,0,
+70,male,highly skilled,free,little,moderate,10,15.178,0,
+36,male,skilled,own,quite rich,moderate,36,19.741,0,
+32,male,skilled,own,quite rich,moderate,6,19.025,0,
+33,female,skilled,own,little,little,18,19.433,0,
+20,female,skilled,own,rich,moderate,11,16.095,0,
+25,female,skilled,rent,little,little,24,18.867,1,13.99459696
+31,male,skilled,own,little,moderate,24,16.63,1,11.66930222
+33,male,skilled,rent,little,little,15,15.833,1,15.04108097
+26,female,skilled,own,little,little,12,19.907,0,
+34,female,highly skilled,own,little,moderate,24,19.632,0,
+33,male,skilled,own,little,moderate,8,19.459,0,
+26,male,skilled,own,little,little,21,19.766,1,17.72100793
+53,female,highly skilled,own,little,moderate,30,16.027,1,8.47210626
+42,male,skilled,own,little,little,12,15.263,0,
+52,male,skilled,own,quite rich,little,6,20.278,0,
+31,male,highly skilled,rent,little,little,12,15.147,0,
+65,male,skilled,own,little,little,21,17.588,0,
+28,male,skilled,own,little,little,36,17.078,0,
+30,male,unskilled_and_non-resident,own,little,moderate,36,20.289,1,13.68206542
+40,male,unskilled_and_non-resident,own,little,little,21,18.57,1,12.86348475
+50,male,skilled,own,rich,moderate,24,18.13,0,
+36,male,skilled,own,little,moderate,18,17.825,0,
+31,male,skilled,own,little,little,15,19.618,0,
+74,female,unskilled_and_non-resident,free,little,moderate,9,17.213,1,12.07279683
+68,male,unskilled_and_non-resident,free,little,moderate,16,20.338,0,
+20,male,skilled,own,moderate,little,12,18.227,0,
+33,female,skilled,own,little,moderate,18,18.798,0,
+54,male,highly skilled,own,rich,moderate,24,18.023,0,
+34,male,unskilled_and_non-resident,free,moderate,moderate,48,17.705,1,8.59102062
+36,male,skilled,own,little,moderate,27,16.668,1,11.81775672
+29,male,skilled,rent,little,little,6,15.72,0,
+21,male,skilled,rent,moderate,moderate,45,20.925,1,14.81942888
+34,female,highly skilled,own,little,moderate,9,20.544,0,
+28,female,skilled,own,little,little,6,18.814,0,
+27,female,skilled,rent,moderate,little,12,15.37,1,15.86292211
+36,male,unskilled_and_non-resident,free,little,little,24,15.009,1,10.61793071
+40,male,highly skilled,own,little,moderate,18,17.434,0,
+52,male,skilled,own,quite rich,moderate,9,15.168,0,
+27,male,unskilled_and_non-resident,own,little,little,12,18.963,0,
+26,male,skilled,own,little,little,27,19.716,0,
+21,male,skilled,rent,little,little,12,15.804,1,16.67650814
+38,male,unskilled_and_non-resident,own,little,little,12,18.531,0,
+38,male,unskilled_and_non-resident,free,little,little,30,16.956,1,11.72328898
+43,male,skilled,own,little,little,12,17.933,0,
+26,male,skilled,own,little,moderate,12,16.682,0,
+21,male,unskilled_and_non-resident,own,little,little,24,19.633,0,
+55,male,skilled,own,rich,moderate,12,20.619,0,
+33,male,skilled,own,little,moderate,9,20.028,0,
+45,female,unskilled_and_non-resident,own,little,moderate,36,20.129,0,
+50,male,skilled,own,little,little,27,19.124,1,13.31366845
+66,male,highly skilled,own,little,rich,30,17.436,0,
+51,male,skilled,own,little,moderate,36,16.274,0,
+39,female,unskilled_and_non-resident,own,little,moderate,6,15.269,0,
+31,male,skilled,own,little,little,18,15.091,0,
+23,male,skilled,own,little,rich,36,20.682,0,
+24,male,unskilled_and_non-resident,rent,little,little,24,17.4,1,13.3976241
+64,female,skilled,own,little,little,10,19.072,0,
+26,male,unskilled_and_non-resident,own,little,moderate,12,15.375,0,
+23,female,skilled,rent,little,little,12,17.74,0,
+30,male,skilled,own,little,little,12,18.64,0,
+32,male,skilled,own,little,moderate,24,18.188,0,
+30,male,skilled,own,little,little,15,15.068,0,
+27,male,skilled,own,little,little,36,19.161,0,
+27,male,skilled,own,rich,moderate,48,18.143,0,
+53,male,unskilled_and_non-resident,free,little,little,12,19.521,1,16.11508334
+22,male,skilled,own,little,rich,9,17.438,0,
+22,male,unskilled_and_non-resident,free,little,little,24,17.765,1,15.38074976
+26,male,skilled,own,little,rich,36,16.156,1,9.803387508
+51,male,unskilled_and_non-resident,free,quite rich,moderate,9,19.491,0,
+35,male,skilled,own,moderate,moderate,12,16.097,0,
+25,male,unskilled_and_non-resident,own,little,moderate,18,18.038,0,
+42,male,unskilled_and_non-resident,own,little,little,4,19.379,0,
+30,male,highly skilled,own,little,little,24,19.158,0,
+23,male,unskilled_and_non-resident,own,little,moderate,6,18.242,0,
+61,male,unskilled_and_non-resident,rent,moderate,moderate,21,18.203,1,13.34302899
+35,female,skilled,own,little,little,12,17.962,0,
+39,male,skilled,own,little,little,30,17.252,0,
+29,female,skilled,own,little,little,24,19.85,1,14.5953137
+51,male,skilled,own,little,little,6,17.002,0,
+24,male,skilled,free,little,little,48,18.114,1,10.03651384
+27,female,skilled,own,little,little,12,19.67,0,
+35,female,unskilled_and_non-resident,own,quite rich,moderate,12,16.837,0,
+25,male,skilled,own,little,little,24,20.914,0,
+52,male,skilled,own,little,little,12,15.72,0,
+35,male,skilled,rent,moderate,moderate,6,17.076,0,
+26,male,skilled,own,little,rich,24,17.972,0,
+22,female,skilled,rent,little,little,18,16.415,1,13.83037206
+39,female,unskilled_and_non-resident,own,rich,little,6,15.012,0,
+46,female,unskilled_and_non-resident,own,little,rich,12,18.034,0,
+24,female,skilled,own,little,moderate,30,15.542,1,11.31568946
+35,male,skilled,own,moderate,moderate,24,17.785,0,
+24,male,skilled,own,little,moderate,9,19.63,0,
+27,male,unskilled_and_non-resident,own,little,moderate,60,20.669,0,
+35,male,unskilled_and_non-resident,own,little,little,24,16.334,0,
+29,male,skilled,free,little,little,12,20.483,1,17.88334325
+23,female,skilled,own,moderate,moderate,15,19.359,0,
+57,female,unskilled_and_non-resident,own,moderate,moderate,11,18.908,0,
+27,male,skilled,own,little,little,12,16.858,0,
+55,female,skilled,own,little,little,24,17.187,0,
+36,male,highly skilled,free,little,little,18,17.268,0,
+57,female,unskilled_and_non-resident,free,little,little,12,17.099,1,13.75897377
+32,male,unskilled_and_non-resident,own,little,little,10,16.749,0,
+37,male,skilled,own,little,moderate,15,15.756,0,
+36,male,skilled,own,little,moderate,36,16.242,0,
+38,female,skilled,own,little,little,24,19.786,0,
+45,male,unskilled_and_non-resident,own,little,little,14,19.314,1,15.24167732
+25,male,skilled,own,little,moderate,24,16.128,0,
+32,male,skilled,own,little,moderate,18,19.635,0,
+37,female,skilled,rent,quite rich,moderate,12,15.249,0,
+36,male,unskilled_and_non-resident,free,little,little,48,20.527,1,10.85842313
+28,male,skilled,own,little,moderate,48,15.55,0,
+34,male,unskilled_and_non-resident,own,little,little,30,15.759,1,9.89098362
+32,male,skilled,own,little,little,9,16.612,0,
+26,female,skilled,own,little,little,18,20.221,0,
+49,male,unskilled_and_non-resident,own,little,little,12,18.542,0,
+32,male,skilled,own,moderate,moderate,6,15.263,0,
+29,male,highly skilled,rent,moderate,moderate,24,15.425,0,
+23,male,skilled,rent,rich,moderate,15,19.68,0,
+50,male,skilled,own,little,little,12,20.837,0,
+49,male,unskilled_and_non-resident,own,little,rich,18,19.752,0,
+63,male,skilled,own,little,moderate,15,15.09,0,
+37,male,skilled,own,moderate,moderate,24,19.055,0,
+35,female,unskilled_and_non-resident,own,little,little,47,19.884,0,
+26,male,skilled,own,little,little,48,18.859,0,
+31,male,unskilled_and_non-resident,free,little,little,48,18.334,1,9.342021286
+49,female,skilled,own,little,moderate,12,17.302,0,
+48,male,skilled,own,little,little,24,20.949,1,15.49329521
+26,male,skilled,own,little,little,12,15.143,0,
+28,male,highly skilled,rent,little,moderate,36,20.838,1,15.25878398
+44,female,unskilled_and_non-resident,free,little,little,24,20.29,1,13.72707687
+56,male,skilled,free,little,rich,42,18.789,0,
+46,male,highly skilled,own,little,moderate,48,15.181,0,
+26,female,skilled,own,little,moderate,48,15.753,0,
+20,female,skilled,rent,little,moderate,12,20.249,0,
+45,male,unskilled_and_non-resident,own,little,moderate,10,19.765,0,
+43,male,skilled,own,little,little,18,16.661,0,
+32,male,skilled,own,rich,moderate,21,20.259,0,
+54,female,unskilled_and_non-resident,own,little,little,6,17.52,0,
+42,female,skilled,own,little,moderate,36,18.425,1,9.64711475
+37,male,unskilled_and_non-resident,own,little,rich,24,20.799,0,
+49,male,skilled,own,little,little,10,19.668,0,
+44,male,skilled,free,quite rich,moderate,48,15.891,1,5.770566921
+33,male,skilled,own,rich,moderate,6,18.779,0,
+24,female,unskilled_and_non-resident,rent,little,moderate,30,20.511,1,16.72029567
+33,male,unskilled_and_non-resident,own,moderate,little,12,16.314,0,
+24,male,skilled,own,rich,moderate,8,15.506,0,
+22,male,unskilled_and_non-resident,rent,little,moderate,9,20.49,0,
+40,male,unskilled_and_non-resident,free,little,moderate,48,20.609,0,
+25,male,skilled,own,moderate,moderate,24,18.712,0,
+26,female,skilled,own,little,rich,24,18.134,0,
+25,male,unskilled_and_non-resident,own,moderate,moderate,12,15.543,0,
+29,male,unskilled_and_non-resident,own,little,rich,4,16.885,0,
+31,male,skilled,own,little,little,36,20.037,1,13.71209769
+38,male,unskilled_and_non-resident,own,little,little,12,16.925,0,
+48,female,unskilled_and_non-resident,own,little,moderate,24,15.135,0,
+32,male,skilled,own,little,little,12,16.602,0,
+27,female,unskilled_and_non-resident,own,little,little,15,19.156,0,
+28,male,highly skilled,own,little,moderate,30,15.412,1,11.52329018
+32,male,skilled,own,little,little,24,16.716,0,
+34,male,unskilled_and_non-resident,free,little,little,24,20.179,1,14.48890361
+28,male,skilled,own,rich,little,18,17.737,0,
+36,female,skilled,own,little,little,18,19.688,0,
+39,male,unskilled_and_non-resident,own,little,little,8,18.617,0,
+49,male,skilled,rent,little,moderate,12,20.258,0,
+34,female,skilled,own,rich,moderate,24,18.371,0,
+31,male,skilled,own,little,rich,36,18.4,0,
+28,male,skilled,own,little,moderate,6,19.14,0,
+75,male,unskilled_and_non-resident,free,little,little,24,16.34,1,7.53383184
+30,female,skilled,own,moderate,moderate,18,17.168,0,
+24,female,highly skilled,own,moderate,moderate,60,15.147,0,
+24,female,unskilled_and_non-resident,rent,moderate,moderate,48,19.191,1,12.24498799
+23,male,skilled,rent,little,little,24,16.096,1,12.04984872
+44,male,unskilled_and_non-resident,rent,little,little,6,17.731,1,14.84337538
+23,female,unskilled_and_non-resident,own,little,moderate,13,20.832,0,
+24,female,skilled,rent,little,little,15,15.019,1,13.70181058
+28,male,skilled,own,little,little,24,18.351,0,
+31,male,unskilled_and_non-resident,own,little,moderate,10,17.085,0,
+24,female,skilled,free,little,moderate,24,18.463,0,
+26,female,unskilled_and_non-resident,rent,little,little,21,20.714,1,18.37211834
+25,male,skilled,rent,quite rich,moderate,18,17.932,0,
+33,male,highly skilled,own,little,moderate,18,20.519,0,
+37,male,unskilled_and_non-resident,own,little,rich,10,20.433,0,
+43,female,unskilled_and_non-resident,own,little,little,15,17.567,0,
+23,male,skilled,own,little,moderate,13,16.65,0,
+23,female,unskilled_and_non-resident,rent,quite rich,moderate,24,15.51,0,
+34,male,unskilled_and_non-resident,own,moderate,moderate,6,15.845,0,
+32,male,skilled,free,rich,moderate,9,18.311,1,17.75597676
+23,female,skilled,rent,little,little,9,19.014,0,
+29,male,skilled,own,moderate,moderate,9,18.544,0,
+38,male,highly skilled,own,little,moderate,18,20.788,0,
+28,male,skilled,rent,little,little,12,18.713,1,17.98222605
+46,male,skilled,free,quite rich,moderate,10,17.368,0,
+23,female,unskilled_and_non-resident,own,little,moderate,24,15.981,0,
+49,male,skilled,own,little,moderate,12,17.984,0,
+26,male,highly skilled,own,little,little,36,18.233,1,11.16020102
+28,male,skilled,own,little,little,12,15.255,0,
+23,female,skilled,rent,little,little,30,15.719,1,12.09362958
+61,male,skilled,free,little,moderate,18,17.445,0,
+37,male,highly skilled,own,little,rich,12,15.964,0,
+36,female,skilled,own,little,rich,12,16.677,0,
+21,male,skilled,rent,little,little,6,15.324,1,13.805742
+25,male,unskilled_and_non-resident,own,little,little,18,19.617,0,
+36,male,skilled,own,little,little,12,18.643,0,
+27,male,skilled,own,little,little,18,19.024,0,
+22,female,skilled,rent,little,little,18,18.084,1,11.107577
+42,male,skilled,own,little,little,36,17.77,1,9.20699535
+40,female,skilled,rent,little,moderate,18,18.385,0,
+36,male,skilled,own,little,moderate,36,18.326,0,
+33,male,skilled,own,little,little,18,19.019,0,
+23,female,skilled,rent,little,little,10,17.957,0,
+63,male,unskilled_and_non-resident,free,little,moderate,60,15.217,1,0.928352481
+60,female,unskilled_and_non-resident,free,moderate,moderate,60,16.033,1,2.824614067
+37,female,skilled,rent,little,little,48,18.625,1,9.264927375
+34,male,skilled,own,little,little,18,17.012,0,
+36,male,skilled,free,little,moderate,7,15.163,0,
+57,male,unskilled_and_non-resident,free,little,moderate,36,20.765,1,9.764131635
+52,female,unskilled_and_non-resident,own,moderate,moderate,6,18.634,0,
+39,male,skilled,own,little,little,20,16.098,0,
+38,female,unskilled_and_non-resident,free,little,moderate,18,18.601,1,16.02409532
+25,female,skilled,rent,little,moderate,22,15.322,1,11.66039576
+26,male,skilled,own,little,rich,12,20.062,0,
+26,male,unskilled_and_non-resident,own,moderate,moderate,30,19.292,0,
+25,female,skilled,own,little,little,18,19.167,0,
+21,female,skilled,rent,little,moderate,18,19.787,0,
+40,male,highly skilled,own,little,moderate,18,19.672,0,
+27,male,skilled,own,quite rich,moderate,15,18.421,0,
+27,female,skilled,own,little,little,9,17.636,0,
+30,male,highly skilled,own,little,little,18,16.776,0,
+19,female,unskilled_and_non-resident,rent,rich,moderate,12,16.148,0,
+39,male,highly skilled,free,little,little,36,19.094,1,12.00930203
+31,female,skilled,own,little,little,6,18.85,0,
+31,male,highly skilled,own,little,little,9,15.32,0,
+32,male,skilled,rent,moderate,moderate,39,20.122,0,
+55,female,highly skilled,free,little,little,12,18.592,0,
+46,male,skilled,own,little,little,36,15.78,0,
+46,male,skilled,rent,little,moderate,12,19.627,1,16.09730936
+43,female,unskilled_and_non-resident,own,rich,moderate,24,17.912,0,
+39,male,skilled,own,little,little,18,20.706,0,
+28,male,skilled,own,little,moderate,18,20.497,0,
+27,male,skilled,own,little,little,24,19.486,1,15.00500518
+27,male,unskilled_and_non-resident,own,little,little,14,15.591,0,
+43,male,skilled,own,little,moderate,18,15.892,0,
+22,male,skilled,own,little,moderate,24,15.075,1,11.74320953
+43,male,skilled,own,little,moderate,24,15.54,0,
+27,male,skilled,own,little,little,15,16.114,0,
+26,male,highly skilled,own,quite rich,moderate,24,16.901,0,
+28,male,skilled,own,quite rich,rich,12,17.672,0,
+20,female,skilled,own,little,moderate,24,18.211,0,
+35,male,highly skilled,own,little,little,33,18.571,0,
+42,male,highly skilled,own,little,little,12,19.038,0,
+40,male,unskilled_and_non-resident,rent,quite rich,moderate,10,15.224,0,
+35,female,skilled,own,little,little,24,15.324,1,11.97914113
+35,male,skilled,own,little,little,36,19.672,0,
+33,male,unskilled_and_non-resident,own,moderate,moderate,12,18.14,0,
+23,female,skilled,rent,little,little,18,20.935,0,
+31,female,highly skilled,own,quite rich,moderate,21,18.401,0,
+33,female,skilled,own,little,moderate,18,20.918,0,
+20,female,skilled,rent,rich,moderate,15,20.923,0,
+30,male,skilled,own,little,moderate,12,18.339,0,
+47,male,unskilled_and_non-resident,own,little,moderate,12,20.987,0,
+34,male,highly skilled,own,moderate,moderate,21,16.914,0,
+25,female,skilled,own,little,moderate,12,20.661,1,20.02542861
+21,male,skilled,rent,little,moderate,18,17.52,0,
+29,male,skilled,own,little,little,28,16.075,0,
+46,male,skilled,own,rich,moderate,18,20.232,0,
+20,male,skilled,own,little,little,9,18.948,0,
+55,female,unskilled_and_non-resident,free,little,little,18,18.644,1,11.73116075
+74,male,unskilled_and_non-resident,own,little,little,5,19.11,0,
+29,female,highly skilled,own,little,moderate,24,16.9,0,
+36,male,highly skilled,free,little,little,6,19.776,0,
+33,male,skilled,own,little,little,24,16.123,0,
+25,male,skilled,own,little,little,9,19.748,0,
+25,male,skilled,own,little,moderate,12,18.771,1,16.41942352
+23,male,unskilled_and_non-resident,rent,quite rich,moderate,6,20.392,0,
+37,female,skilled,own,rich,moderate,24,15.322,0,
+65,male,unskilled_and_non-resident,own,little,little,42,16.906,0,
+26,male,skilled,own,little,rich,12,16.233,0,
+39,male,highly skilled,own,little,little,12,16.671,0,
+30,female,skilled,own,little,little,12,17.993,0,
+29,male,skilled,own,little,moderate,20,18.009,0,
+41,male,unskilled_and_non-resident,own,little,little,12,17.509,0,
+30,female,unskilled_and_non-resident,own,little,moderate,48,19.299,1,9.486081275
+41,female,unskilled_and_non-resident,rent,little,moderate,9,18.945,0,
+34,female,skilled,own,little,little,36,19.155,0,
+35,male,skilled,own,little,moderate,7,19.577,0,
+55,female,highly skilled,own,little,rich,12,17.897,0,
+61,male,skilled,own,rich,moderate,15,20.295,0,
+30,male,highly skilled,own,little,moderate,36,17.021,0,
+29,female,skilled,own,little,little,6,18.946,0,
+34,male,skilled,own,little,little,12,16.833,0,
+35,male,highly skilled,own,little,little,24,17.104,0,
+31,male,skilled,own,little,little,24,17.621,1,12.23633047
+29,female,highly skilled,own,little,little,24,17.116,0,
+36,male,skilled,rent,little,little,11,15.481,0,
+35,male,skilled,free,little,little,12,20.353,1,18.44872983
+27,female,skilled,own,little,little,6,18.37,0,
+32,male,skilled,own,little,little,18,17.503,0,
+37,male,skilled,own,little,little,36,17.713,0,
+36,male,skilled,own,little,little,15,16.493,0,
+34,female,highly skilled,rent,little,moderate,12,17.792,0,
+38,male,skilled,own,little,moderate,12,16.957,0,
+34,male,skilled,own,little,little,18,15.609,0,
+63,male,skilled,own,little,little,24,18.774,0,
+29,female,unskilled_and_non-resident,rent,little,little,24,18.752,1,14.89610707
+32,male,skilled,own,little,moderate,48,17.097,0,
+26,female,skilled,own,little,little,33,20.192,0,
+35,male,unskilled_and_non-resident,own,little,little,24,15.549,0,
+22,male,skilled,rent,moderate,moderate,24,16.065,1,14.37023269
+23,female,skilled,own,little,little,6,15.64,1,11.871521
+28,male,unskilled_and_non-resident,own,little,little,9,18.815,0,
+36,male,highly skilled,own,little,moderate,6,17.106,0,
+33,male,skilled,own,little,moderate,18,18.954,1,15.47772026
+26,female,skilled,rent,little,little,18,18.187,1,15.43670782
+24,male,skilled,own,quite rich,moderate,39,16.421,0,
+25,male,skilled,own,little,rich,24,17.832,0,
+39,male,unskilled_and_non-resident,own,moderate,moderate,12,18.455,0,
+44,male,skilled,own,little,little,15,20.135,0,
+23,female,unskilled_and_non-resident,own,little,moderate,12,15.984,0,
+26,male,skilled,own,little,moderate,24,15.773,0,
+57,female,skilled,rent,rich,little,30,15.021,0,
+30,female,skilled,own,rich,moderate,15,17.641,0,
+44,male,skilled,own,quite rich,moderate,12,18.383,0,
+47,male,highly skilled,own,moderate,moderate,6,17.635,0,
+52,male,skilled,own,little,little,12,17.899,0,
+62,female,skilled,free,little,little,24,20.683,1,13.57140643
+35,male,unskilled_and_non-resident,rent,moderate,moderate,10,19.476,0,
+26,male,skilled,rent,little,little,6,19.729,0,
+26,male,skilled,own,little,little,12,16.363,0,
+42,female,unskilled_and_non-resident,free,little,moderate,27,20.144,1,14.13720116
+27,female,skilled,own,moderate,moderate,6,17.798,0,
+38,male,skilled,own,little,moderate,6,19.206,0,
+39,male,unskilled_and_non-resident,rent,little,little,12,18.509,0,
+20,male,skilled,own,little,little,24,18.111,0,
+29,male,unskilled_and_non-resident,rent,moderate,moderate,36,17.425,1,12.660516
+40,male,skilled,own,little,little,24,18.568,0,
+32,male,unskilled_and_non-resident,own,little,moderate,18,20.979,0,
+28,male,skilled,own,moderate,rich,6,20.146,0,
+27,female,skilled,own,little,little,24,20.191,0,
+42,male,skilled,free,little,little,36,19.428,1,10.73940932
+49,male,skilled,own,moderate,rich,9,16.987,0,
+38,male,skilled,own,moderate,moderate,24,18.264,0,
+24,female,skilled,rent,little,little,24,19.184,1,15.46624026
+27,male,unskilled_and_non-resident,own,little,moderate,10,19.531,1,16.91824481
+36,male,skilled,own,quite rich,rich,15,16.759,0,
+34,male,highly skilled,own,moderate,moderate,15,19.519,0,
+28,male,skilled,own,little,little,24,19.185,0,
+45,male,highly skilled,own,moderate,moderate,39,17.39,0,
+26,male,skilled,own,moderate,little,12,17.004,0,
+32,male,highly skilled,free,little,little,36,19.128,1,10.98020738
+26,male,skilled,rent,little,rich,15,20.133,0,
+20,male,skilled,rent,little,moderate,12,16.647,0,
+54,male,skilled,own,little,moderate,24,15.381,0,
+37,female,skilled,own,little,little,6,16.964,0,
+40,male,unskilled_and_non-resident,own,little,little,6,20.778,0,
+23,female,skilled,rent,little,little,36,19.615,1,13.81661697
+43,male,skilled,own,moderate,little,6,16.627,0,
+36,male,skilled,free,little,moderate,6,16.953,0,
+44,male,skilled,free,little,little,24,18.145,1,11.94324905
+24,female,skilled,own,little,little,18,17.001,1,16.25710693
+53,male,skilled,free,little,little,48,16,1,5.123952
+23,female,skilled,own,moderate,moderate,24,19.111,0,
+26,female,unskilled_and_non-resident,own,little,moderate,18,16.436,0,
+30,male,skilled,own,little,moderate,26,17.119,0,
+31,female,skilled,own,moderate,moderate,15,16.449,0,
+42,male,unskilled_and_non-resident,own,little,little,4,20.239,0,
+31,male,skilled,rent,little,little,36,17.695,1,12.08518007
+41,male,unskilled_and_non-resident,own,little,little,6,17.025,0,
+32,male,skilled,own,little,moderate,36,15.936,0,
+28,female,skilled,rent,moderate,moderate,15,20.988,1,20.03077121
+41,male,skilled,rent,little,little,12,19.151,0,
+26,male,skilled,own,moderate,moderate,24,15.351,0,
+25,male,skilled,own,little,moderate,24,19.019,0,
+33,male,skilled,rent,little,rich,21,20.011,1,15.02719794
+75,female,highly skilled,own,little,little,6,19.292,0,
+37,female,skilled,own,little,moderate,18,20.265,0,
+42,male,unskilled_and_non-resident,free,little,little,48,17.395,1,7.74642479
+45,female,unskilled_and_non-resident,own,little,rich,18,15.649,0,
+23,male,skilled,rent,little,moderate,12,15.184,1,13.71993056
+60,male,skilled,free,little,little,24,20.107,1,12.82129509
+31,male,skilled,own,little,little,30,17.185,1,13.08661176
+34,male,unskilled_and_non-resident,own,little,rich,18,15.563,0,
+61,male,unskilled_and_non-resident,own,little,little,12,15.376,0,
+43,male,skilled,free,little,little,24,18.658,1,13.70571442
+37,female,skilled,own,little,little,24,18.016,0,
+32,male,skilled,own,little,little,24,17.555,0,
+24,female,unskilled_and_non-resident,own,little,rich,12,17.499,0,
+35,male,unskilled_and_non-resident,free,little,little,48,17.162,1,6.931176232
+23,female,skilled,own,little,moderate,12,15.824,0,
+45,male,unskilled_and_non-resident,own,quite rich,moderate,6,18.607,0,
+34,male,skilled,own,little,little,48,16.323,1,6.611511871
+27,male,skilled,own,moderate,moderate,12,20.131,0,
+67,female,highly skilled,own,little,moderate,9,19.936,0,
+22,male,skilled,own,little,moderate,12,16.467,0,
+28,female,skilled,own,moderate,moderate,18,16.739,0,
+29,female,skilled,own,little,moderate,21,20.897,1,16.97336672
+27,male,skilled,own,little,little,24,20.506,0,
+31,male,unskilled_and_non-resident,own,little,moderate,18,17.333,0,
+49,male,skilled,free,little,little,24,17.688,1,11.9448765
+24,male,unskilled_and_non-resident,rent,little,little,24,18.686,1,14.02318025
+29,female,skilled,own,little,rich,6,15.31,0,
+37,male,skilled,free,little,moderate,36,20.475,1,11.45005945
+37,male,highly skilled,own,little,moderate,24,18.313,0,
+23,female,skilled,rent,moderate,moderate,24,16.202,0,
+36,male,skilled,own,moderate,little,12,16.88,0,
+34,male,skilled,own,rich,moderate,24,16.47,0,
+41,male,skilled,own,little,moderate,48,19.072,0,
+31,female,skilled,own,little,little,48,18.946,1,10.05672743
+23,female,unskilled_and_non-resident,rent,little,little,24,18.524,1,14.41029014
+38,male,skilled,own,little,little,30,17.889,0,
+26,female,highly skilled,rent,little,moderate,24,16.392,0,
+22,female,unskilled_and_non-resident,own,little,little,15,15.26,0,
+27,male,unskilled_and_non-resident,own,little,moderate,9,17.454,0,
+24,female,skilled,own,little,little,15,15.103,0,
+27,female,skilled,own,little,moderate,12,16.638,0,
+33,female,skilled,own,little,moderate,24,17.295,0,
+27,male,skilled,own,little,moderate,36,20.3,1,12.967776
+27,male,unskilled_and_non-resident,own,little,little,24,16.508,0,
+30,male,skilled,own,little,moderate,18,15.012,0,
+49,male,unskilled_and_non-resident,own,little,moderate,12,16.63,0,
+26,female,skilled,rent,little,little,9,15.349,0,
+33,male,unskilled_and_non-resident,rent,little,moderate,36,15.417,1,9.754468683
+52,female,highly skilled,free,little,moderate,12,19.207,0,
+20,female,skilled,rent,little,little,18,16.903,1,15.57281731
+36,male,skilled,rent,little,little,9,20.257,0,
+21,male,unskilled_and_non-resident,own,little,little,12,20.282,0,
+47,male,unskilled_and_non-resident,own,little,little,18,18.163,0,
+60,male,skilled,own,little,little,12,15.134,1,10.45239798
+58,female,unskilled_and_non-resident,own,little,little,12,18.167,0,
+42,female,skilled,rent,little,moderate,24,16.996,0,
+36,female,unskilled_and_non-resident,own,rich,moderate,21,15.652,0,
+20,female,unskilled_and_non-resident,rent,little,moderate,24,19.786,1,17.86051267
+40,male,highly skilled,own,little,little,24,18.977,0,
+32,female,unskilled_and_non-resident,own,moderate,moderate,6,17.805,0,
+23,female,skilled,rent,little,little,24,17.763,1,15.34536725
+36,female,unskilled_and_non-resident,own,little,moderate,24,17.258,0,
+31,male,skilled,own,little,little,18,20.58,1,17.94545394
+32,male,skilled,free,little,little,24,17.681,1,11.96009294
+45,female,skilled,own,little,moderate,7,15.474,0,
+30,male,skilled,own,moderate,moderate,9,16.101,0,
+34,female,unskilled_and_non-resident,free,little,moderate,24,16.564,1,12.78844006
+28,female,highly skilled,own,little,little,36,15.117,0,
+23,female,skilled,own,little,rich,10,20.269,0,
+22,male,skilled,own,quite rich,little,24,18.669,0,
+74,male,highly skilled,own,little,little,24,19.231,0,
+50,female,skilled,free,moderate,moderate,36,16.543,1,8.481992424
+33,male,skilled,own,little,little,18,20.511,0,
+45,male,skilled,free,little,moderate,15,15.273,0,
+22,female,skilled,own,moderate,moderate,12,15.129,0,
+48,female,unskilled_and_non-resident,free,moderate,rich,10,20.607,0,
+29,female,skilled,own,rich,little,21,19.539,0,
+22,female,skilled,rent,little,little,24,18.916,1,16.61119231
+22,female,skilled,own,little,little,18,16.045,0,
+48,male,highly skilled,own,little,moderate,48,16.806,0,
+27,male,unskilled_and_non-resident,free,little,little,60,16.027,1,5.429743186
+37,male,skilled,rent,little,little,6,17.965,0,
+21,female,skilled,rent,moderate,moderate,30,15.246,1,11.17310836
+49,male,unskilled_and_non-resident,own,little,little,12,19.9,0,
+27,male,skilled,own,little,moderate,21,15.666,0,
+32,male,skilled,own,little,little,18,19.688,0,
+38,male,skilled,own,little,moderate,48,17.417,1,7.123264253
+22,female,skilled,rent,little,little,12,20.583,0,
+65,male,skilled,free,little,little,18,17.598,1,11.17958857
+35,male,skilled,own,little,moderate,15,15.034,0,
+41,male,skilled,own,little,rich,6,17.761,0,
+29,male,skilled,own,moderate,moderate,9,17.903,0,
+36,male,skilled,own,quite rich,moderate,42,18.389,0,
+64,male,unskilled_and_non-resident,own,little,moderate,9,15.179,0,
+28,female,skilled,own,little,little,24,20.519,0,
+44,male,skilled,own,little,little,18,15.801,0,
+23,male,skilled,own,little,moderate,15,17.406,0,
+19,female,skilled,rent,little,little,9,20.75,1,21.50590725
+25,female,unskilled_and_non-resident,own,little,moderate,24,16.305,1,13.54732134
+47,male,skilled,own,little,little,12,18.386,0,
+28,female,skilled,own,quite rich,moderate,24,19.31,0,
+21,male,skilled,own,little,little,60,16.261,0,
+34,female,skilled,own,little,little,12,17.901,0,
+26,male,skilled,own,little,little,42,18.179,1,9.80987553
+27,female,unskilled_and_non-resident,own,little,little,18,20.026,0,
+38,male,unskilled_and_non-resident,own,little,moderate,15,19.844,0,
+40,male,highly skilled,own,moderate,moderate,15,16.429,0,
+33,male,skilled,own,little,little,24,18.924,0,
+32,male,highly skilled,own,little,little,18,19.444,0,
+27,male,skilled,rent,little,moderate,36,15.281,1,10.69865234
+32,male,skilled,own,little,little,30,15.404,0,
+26,female,skilled,own,quite rich,moderate,12,16.125,0,
+38,male,skilled,free,little,rich,24,16.56,1,10.31375396
+40,male,unskilled_and_non-resident,rent,little,little,12,19.496,1,15.27749424
+50,male,unskilled_and_non-resident,free,little,little,48,15.565,1,5.25679101
+37,male,unskilled_and_non-resident,own,little,moderate,12,18.622,0,
+45,male,skilled,own,little,little,24,17.171,1,11.29917352
+42,male,highly skilled,own,moderate,moderate,36,15.322,0,
+35,male,skilled,own,little,little,24,20.585,0,
+22,male,skilled,free,little,little,14,20.228,1,18.88925486
+41,male,unskilled_and_non-resident,own,little,moderate,12,15.846,1,13.96830911
+37,male,skilled,own,little,moderate,48,18.265,0,
+28,female,skilled,own,little,moderate,30,15.107,0,
+41,male,skilled,own,little,moderate,18,20.332,0,
+23,male,skilled,rent,little,rich,12,16.153,0,
+23,male,skilled,own,moderate,moderate,12,15.291,0,
+50,male,skilled,own,little,little,21,16.345,0,
+35,male,highly skilled,own,little,moderate,6,20.085,0,
+50,female,unskilled_and_non-resident,own,little,rich,6,18.466,0,
+27,male,highly skilled,own,little,little,24,15.697,0,
+34,male,skilled,own,rich,moderate,30,15.541,0,
+27,female,skilled,own,little,little,48,16.752,0,
+43,male,skilled,rent,little,little,12,17.892,1,15.39797402
+47,male,skilled,own,little,rich,30,18.307,0,
+27,male,unskilled_and_non-resident,own,moderate,moderate,24,17.218,0,
+31,male,skilled,own,moderate,moderate,36,15.226,0,
+42,male,highly skilled,own,little,little,60,16.038,0,
+24,male,skilled,own,quite rich,moderate,6,17.436,0,
+41,male,unskilled_and_non-resident,own,quite rich,moderate,21,20.819,0,
+26,female,unskilled_and_non-resident,rent,little,little,30,15.065,1,11.71250985
+33,male,skilled,own,little,little,24,20.915,0,
+24,male,skilled,own,moderate,moderate,72,16.432,0,
+64,male,unskilled_and_non-resident,rent,little,little,24,16.814,1,10.34426971
+26,female,skilled,own,little,little,18,20.452,0,
+56,female,skilled,own,little,little,6,19.381,0,
+37,male,skilled,free,little,moderate,12,20.827,0,
+33,male,skilled,own,little,little,15,16.587,0,
+47,male,skilled,free,little,little,24,18.359,1,11.16966756
+31,male,unskilled_and_non-resident,own,moderate,moderate,36,17.592,0,
+34,male,unskilled_and_non-resident,free,little,moderate,60,15.258,1,3.630841562
+27,male,skilled,own,little,rich,10,20.422,0,
+30,male,skilled,free,moderate,moderate,36,18.172,0,
+35,male,skilled,own,moderate,moderate,9,18.915,0,
+31,male,skilled,own,rich,little,12,19.6,0,
+25,male,skilled,own,little,little,15,17.984,0,
+25,female,unskilled_and_non-resident,own,moderate,moderate,15,15.361,0,
+29,male,skilled,own,moderate,moderate,24,20.954,0,
+44,male,unskilled_and_non-resident,own,little,little,6,18.655,0,
+28,male,skilled,own,little,little,24,19.345,0,
+50,male,skilled,rent,quite rich,moderate,6,20.954,0,
+29,male,skilled,own,little,moderate,12,19.758,0,
+38,female,unskilled_and_non-resident,own,little,little,12,15.013,0,
+24,male,skilled,own,little,little,18,20.537,0,
+40,male,highly skilled,rent,little,rich,15,18.006,0,
+29,female,skilled,rent,moderate,moderate,12,18.826,1,18.19771263
+46,male,skilled,free,little,little,48,18.872,1,8.027693056
+47,female,skilled,free,moderate,rich,24,19.626,0,
+41,male,skilled,own,moderate,moderate,30,16.146,0,
+32,female,skilled,own,little,moderate,27,19.531,0,
+35,female,skilled,free,quite rich,moderate,15,18.199,0,
+24,male,skilled,own,moderate,moderate,48,18.145,0,
+25,female,skilled,rent,little,moderate,12,19.948,1,17.78140595
+25,female,skilled,own,little,moderate,9,16.448,0,
+37,male,unskilled_and_non-resident,own,little,moderate,9,20.103,0,
+32,male,highly skilled,own,quite rich,moderate,18,16.931,0,
+35,female,skilled,free,little,little,6,17.435,1,15.89871612
+46,male,highly skilled,own,little,moderate,21,16.293,0,
+25,male,unskilled_and_non-resident,own,little,little,9,18.065,0,
+27,male,highly skilled,own,little,moderate,60,15.036,1,4.332756288
+63,male,skilled,own,little,moderate,30,16.059,0,
+40,male,skilled,own,little,moderate,30,15.083,0,
+32,male,highly skilled,free,little,little,18,18.678,0,
+31,male,skilled,own,little,rich,24,15.791,0,
+31,male,skilled,own,moderate,moderate,20,19.837,0,
+34,male,skilled,own,little,rich,9,19.913,0,
+24,female,skilled,rent,rich,moderate,6,15.234,1,14.79075
+24,male,unskilled_and_non-resident,own,little,little,12,16.668,0,
+66,female,unskilled_and_non-resident,own,quite rich,moderate,9,18.575,0,
+21,female,skilled,rent,little,little,27,17.097,1,14.66723294
+41,female,unskilled_and_non-resident,own,rich,moderate,6,15.859,0,
+47,male,unskilled_and_non-resident,own,quite rich,moderate,15,17.19,0,
+25,female,skilled,rent,little,little,18,19.817,1,16.94224967
+59,female,skilled,rent,little,moderate,48,20.167,1,7.841924784
+36,male,skilled,own,rich,rich,24,18.442,0,
+33,male,skilled,own,little,moderate,24,20.658,0,
+21,male,unskilled_and_non-resident,rent,little,little,24,19.517,1,15.78372093
+44,female,unskilled_and_non-resident,own,little,moderate,8,20.807,0,
+28,female,skilled,rent,rich,moderate,24,20.649,0,
+37,female,skilled,own,little,little,4,20.894,0,
+29,female,unskilled_and_non-resident,own,little,moderate,36,16.419,0,
+23,female,unskilled_and_non-resident,rent,little,moderate,24,15.566,1,11.86156062
+35,male,unskilled_and_non-resident,own,moderate,little,18,16.221,0,
+45,male,highly skilled,own,little,little,6,18.163,0,
+26,female,unskilled_and_non-resident,rent,moderate,moderate,30,17.235,1,12.74932553
+32,male,skilled,own,moderate,little,24,19.374,0,
+23,male,unskilled_and_non-resident,own,little,moderate,10,20.835,0,
+41,male,skilled,own,little,moderate,21,15.328,0,
+22,male,skilled,own,quite rich,little,24,20.25,0,
+30,male,highly skilled,own,little,little,39,17.675,0,
+28,male,unskilled_and_non-resident,own,little,little,13,17.401,0,
+23,female,skilled,rent,little,little,15,16.281,0,
+37,female,unskilled_and_non-resident,own,little,little,12,16.092,1,13.14188952
+26,male,skilled,own,little,moderate,21,19.308,0,
+33,male,skilled,own,little,little,15,18.727,0,
+49,female,skilled,own,little,little,6,20.272,0,
+23,female,unskilled_and_non-resident,own,little,little,18,15.995,0,
+23,female,unskilled_and_non-resident,rent,moderate,moderate,12,20.507,0,
+25,female,skilled,own,little,little,30,19.507,0,
+55,male,skilled,free,rich,moderate,12,18.068,1,14.40449649
+32,female,skilled,rent,little,little,24,16.821,1,13.65448252
+74,male,unskilled_and_non-resident,own,little,rich,6,17.138,0,
+39,male,skilled,free,little,rich,15,15.344,1,11.75341596
+31,male,skilled,own,little,little,24,19.185,0,
+35,male,skilled,own,little,little,12,20.457,1,19.07974621
+59,female,skilled,own,little,moderate,15,16.626,0,
+24,female,skilled,rent,little,little,18,16.318,1,14.37475288
+24,male,unskilled_and_non-resident,own,little,little,12,20.217,0,
+30,male,highly skilled,free,little,moderate,21,16.169,1,14.06758638
+27,male,skilled,own,moderate,moderate,24,20.022,0,
+40,male,unskilled_and_non-resident,own,little,moderate,12,20.552,0,
+31,male,unskilled_and_non-resident,own,little,little,30,18.454,0,
+31,female,skilled,rent,little,moderate,10,16.548,0,
+28,male,skilled,rent,little,moderate,12,20.263,1,19.09372504
+63,male,unskilled_and_non-resident,own,little,little,12,18.437,0,
+26,female,skilled,rent,little,little,24,20.381,1,17.52879374
+25,female,highly skilled,own,little,little,36,15.011,0,
+36,male,highly skilled,own,little,little,21,20.991,0,
+52,male,skilled,own,moderate,moderate,24,18.425,0,
+66,male,unskilled_and_non-resident,free,quite rich,rich,12,20.462,0,
+25,female,skilled,rent,little,little,24,15.362,1,13.58558229
+37,male,skilled,own,little,little,36,16.941,0,
+25,female,skilled,own,little,little,18,16.839,0,
+38,male,highly skilled,own,rich,moderate,36,16.46,0,
+67,female,skilled,own,little,moderate,18,17.583,0,
+25,male,skilled,own,little,moderate,39,19.222,1,11.66923979
+60,male,skilled,own,rich,moderate,24,16.333,0,
+31,male,unskilled_and_non-resident,own,little,moderate,12,17.364,0,
+23,male,skilled,own,moderate,moderate,12,17.558,0,
+60,male,highly skilled,own,little,moderate,20,15.705,0,
+35,male,unskilled_and_non-resident,own,rich,moderate,18,17.617,0,
+40,male,skilled,own,quite rich,moderate,22,17.071,0,
+38,male,skilled,own,little,moderate,48,19.753,0,
+50,male,skilled,free,little,moderate,48,17.066,1,5.847826104
+27,male,skilled,own,little,little,40,20.054,0,
+39,female,skilled,own,little,moderate,21,16.022,0,
+41,male,highly skilled,own,little,moderate,24,17.527,0,
+27,male,skilled,own,little,moderate,6,15.276,0,
+51,male,skilled,free,little,rich,24,15.978,0,
+32,male,skilled,rent,quite rich,moderate,24,19.645,0,
+22,female,skilled,rent,moderate,moderate,9,18.52,0,
+51,male,skilled,free,little,little,18,17.075,1,13.1376025
+22,female,unskilled_and_non-resident,rent,little,little,12,18.832,1,18.8370462
+54,male,skilled,own,little,moderate,24,19.727,0,
+35,male,unskilled_and_non-resident,own,little,moderate,9,15.272,0,
+54,male,skilled,free,little,little,24,16.574,1,10.99907381
+48,female,unskilled_and_non-resident,rent,little,moderate,18,18.099,0,
+24,female,skilled,own,little,little,20,19.361,0,
+35,male,skilled,own,little,moderate,12,18.02,0,
+24,female,unskilled_and_non-resident,rent,little,moderate,12,19.06,0,
+24,male,skilled,own,little,little,36,17.226,1,10.82186349
+26,male,unskilled_and_non-resident,own,little,moderate,6,17.383,0,
+65,male,skilled,own,little,moderate,12,20.677,0,
+55,male,unskilled_and_non-resident,free,little,little,42,20.376,1,9.65730762
+26,female,unskilled_and_non-resident,rent,little,moderate,15,16.599,1,15.04833797
+26,male,skilled,own,little,moderate,8,19.554,0,
+28,male,unskilled_and_non-resident,own,little,moderate,6,17.045,0,
+24,male,skilled,own,little,little,36,18.263,0,
+54,male,skilled,own,little,little,48,16.1,1,5.4126056
+46,male,skilled,free,little,little,48,16.992,1,6.480844544
+54,female,skilled,rent,little,moderate,36,16.954,0,
+62,male,skilled,own,quite rich,moderate,6,18.894,0,
+24,female,skilled,rent,little,little,6,17.716,0,
+43,male,highly skilled,own,little,little,36,19.413,0,
+26,male,skilled,own,little,little,18,17.898,0,
+27,male,skilled,own,little,little,12,17.351,0,
+24,male,skilled,own,little,rich,12,18.511,0,
+41,male,skilled,own,little,little,36,19.772,1,11.20225886
+47,male,unskilled_and_non-resident,own,little,little,8,17.041,0,
+35,male,highly skilled,own,little,little,18,16.842,0,
+30,male,skilled,own,little,little,21,20.378,0,
+33,female,skilled,rent,little,little,18,16.168,1,12.57211341
+36,male,skilled,own,little,little,18,19.752,0,
+47,male,skilled,free,little,little,36,17.013,1,8.947258929
+38,male,skilled,free,little,moderate,48,19.448,1,8.668143776
+44,male,skilled,own,quite rich,moderate,24,19.13,0,
+23,female,skilled,rent,little,little,18,17.216,1,15.7919633
+29,male,skilled,rent,little,little,45,17.829,1,10.45372604
+42,female,skilled,own,little,moderate,24,16.799,0,
+25,female,unskilled_and_non-resident,own,little,rich,15,17.879,1,14.69912887
+48,male,skilled,own,moderate,rich,12,16.805,0,
+21,female,skilled,own,little,moderate,12,16.06,0,
+23,female,unskilled_and_non-resident,rent,little,little,4,20.986,1,12.365426
+63,male,skilled,own,little,little,24,20.905,0,
+46,male,skilled,own,little,little,24,19.858,0,
+29,male,skilled,own,little,little,36,19.397,0,
+28,male,unskilled_and_non-resident,own,little,little,21,15.875,0,
+23,female,skilled,own,little,little,18,15.475,1,15.18432435
+50,male,skilled,own,little,little,24,18.032,0,
+47,male,skilled,own,little,little,18,18.623,0,
+35,male,skilled,own,little,moderate,21,15.201,0,
+68,male,skilled,rent,little,moderate,18,15.272,1,8.715182016
+28,male,skilled,own,little,little,24,19.83,0,
+59,male,skilled,own,little,little,9,19.402,0,
+57,male,unskilled_and_non-resident,own,moderate,moderate,12,19.982,0,
+33,male,skilled,rent,little,little,20,19.493,1,15.47720721
+43,male,skilled,own,little,moderate,24,16.096,0,
+35,male,skilled,free,little,little,15,18.277,0,
+32,male,unskilled_and_non-resident,free,little,little,18,16.402,1,13.63647855
+45,male,skilled,own,little,little,36,17.819,0,
+33,male,skilled,own,moderate,moderate,24,15.706,0,
+40,female,skilled,own,little,moderate,10,16.894,0,
+28,male,skilled,free,little,little,15,15.307,0,
+29,female,skilled,own,little,little,15,19.012,1,15.83134442
+26,male,skilled,rent,moderate,moderate,9,15.587,0,
+27,male,skilled,own,rich,moderate,24,15.656,0,
+28,male,skilled,own,little,little,18,17.467,0,
+35,female,skilled,own,little,little,24,17.176,1,13.3882896
+32,male,unskilled_and_non-resident,own,rich,moderate,27,15.045,0,
+25,male,unskilled_and_non-resident,rent,little,little,10,17.361,1,17.60519547
+20,female,skilled,rent,quite rich,moderate,15,19.8,0,
+27,female,skilled,own,little,little,18,19.823,0,
+42,male,skilled,own,little,little,12,16.327,0,
+37,male,skilled,own,little,moderate,36,17.925,0,
+24,female,skilled,rent,little,little,12,18.669,0,
+40,female,skilled,own,quite rich,moderate,36,20.217,0,
+46,male,skilled,own,little,rich,6,15.509,0,
+26,male,skilled,own,moderate,little,24,16.598,0,
+24,female,skilled,own,little,moderate,15,15.516,0,
+29,male,unskilled_and_non-resident,own,little,little,12,17.554,0,
+40,female,skilled,own,rich,moderate,11,17.947,0,
+36,male,highly skilled,free,little,little,18,20.256,0,
+28,male,skilled,own,little,little,36,15.443,0,
+27,male,unskilled_and_non-resident,free,little,little,9,15.212,1,14.42450528
+36,male,skilled,own,little,moderate,30,16.579,0,
+38,male,highly skilled,own,little,little,24,17.688,0,
+48,male,skilled,free,little,moderate,24,16.284,0,
+36,male,skilled,own,little,moderate,30,16.689,0,
+65,female,unskilled_and_non-resident,own,little,little,18,15.918,0,
+43,male,skilled,own,little,moderate,24,17.302,0,
+53,male,skilled,own,moderate,moderate,12,20.004,0,
+34,male,skilled,own,little,moderate,24,16.93,0,
+23,male,skilled,own,little,moderate,48,19.324,0,
+34,male,highly skilled,own,little,little,36,19.967,0,
+40,male,skilled,rent,little,moderate,28,18.009,0,
+43,male,highly skilled,own,little,little,27,17.376,0,
+46,male,skilled,own,little,little,15,15.802,0,
+38,male,unskilled_and_non-resident,own,little,little,12,16.777,0,
+34,male,skilled,own,little,moderate,36,19.809,0,
+29,male,skilled,own,little,moderate,18,15.083,0,
+31,male,highly skilled,own,little,moderate,36,15.786,0,
+28,female,unskilled_and_non-resident,rent,little,little,21,18.476,1,16.64901216
+35,female,skilled,own,rich,moderate,12,17.009,0,
+33,female,unskilled_and_non-resident,rent,little,moderate,15,15.333,0,
+42,male,skilled,own,little,little,18,16.902,1,12.80602404
+43,male,skilled,rent,little,little,16,18.278,1,15.43830037
+44,male,skilled,own,little,moderate,20,15.074,0,
+42,male,skilled,free,little,moderate,36,17.996,0,
+40,male,skilled,rent,little,moderate,15,19.802,0,
+36,male,highly skilled,own,little,little,24,19.74,0,
+20,male,highly skilled,rent,little,little,12,17.628,0,
+24,male,unskilled_and_non-resident,own,little,little,21,19.892,0,
+27,male,skilled,own,little,moderate,36,18.56,0,
+46,female,unskilled_and_non-resident,own,little,little,15,19.232,0,
+33,female,unskilled_and_non-resident,own,little,moderate,9,20.589,0,
+34,female,skilled,own,little,little,36,18.118,0,
+25,female,unskilled_and_non-resident,own,little,moderate,24,18.501,1,14.63502843
+25,female,skilled,own,little,moderate,30,19.846,0,
+28,male,skilled,own,rich,moderate,11,18.801,0,
+31,male,skilled,rent,little,little,24,18.415,1,14.8131932
+32,female,highly skilled,own,little,moderate,48,18.48,1,8.84430954
+32,male,skilled,own,moderate,moderate,10,19.209,0,
+68,female,highly skilled,own,little,little,6,15.579,0,
+33,male,skilled,own,moderate,little,24,20.017,1,16.31060557
+39,male,highly skilled,rent,little,little,24,17.037,1,11.3430747
+28,female,skilled,own,little,little,18,16.627,0,
+37,male,highly skilled,own,quite rich,moderate,48,15.289,0,
+22,female,skilled,rent,little,little,9,15.637,1,14.035969
+30,male,skilled,rent,little,moderate,12,17.51,0,
+55,female,skilled,own,little,little,24,16.279,0,
+46,male,skilled,own,little,little,12,15.092,1,12.66625813
+21,female,skilled,rent,little,little,18,15.02,1,14.2712062
+39,male,skilled,free,little,little,48,18.894,1,9.386631886
+58,male,skilled,own,little,moderate,30,16.396,0,
+43,male,unskilled_and_non-resident,own,little,little,12,20.89,0,
+24,male,unskilled_and_non-resident,own,little,little,24,16.473,0,
+22,male,skilled,own,moderate,moderate,9,18.043,0,
+30,male,skilled,own,little,little,9,18.062,0,
+42,male,skilled,own,quite rich,moderate,12,19.151,0,
+23,female,skilled,own,little,little,12,16.598,0,
+30,male,highly skilled,own,moderate,moderate,30,19.207,0,
+28,male,unskilled_and_non-resident,own,moderate,rich,9,18.309,0,
+30,male,highly skilled,rent,little,moderate,6,15.042,1,14.05948
+42,male,skilled,free,little,moderate,60,15.947,1,3.305635308
+46,male,highly skilled,own,little,moderate,24,18.926,0,
+45,male,highly skilled,own,little,moderate,12,17.196,0,
+31,male,unskilled_and_non-resident,own,little,little,10,19.029,0,
+31,male,skilled,own,little,moderate,24,17.979,0,
+42,male,unskilled_and_non-resident,own,little,little,4,18.988,0,
+46,female,skilled,rent,little,little,15,19.822,0,
+30,female,skilled,own,quite rich,moderate,48,19.442,0,
+30,male,skilled,free,quite rich,little,24,15.524,1,10.57777394
+38,male,highly skilled,own,little,moderate,12,20.24,0,
+43,male,unskilled_and_non-resident,own,little,little,18,18.267,1,13.45411056
+31,male,skilled,own,moderate,moderate,24,15.511,0,
+40,male,unskilled_and_non-resident,own,little,moderate,18,20.083,0,
+24,male,skilled,own,little,little,36,18.765,0,
+28,female,skilled,rent,rich,moderate,24,15.026,1,13.177232
+26,female,unskilled_and_non-resident,own,little,little,36,15.774,1,9.602420842
+29,female,skilled,own,little,little,12,16.131,0,
+57,female,highly skilled,rent,rich,little,24,20.576,0,
+49,male,unskilled_and_non-resident,own,little,rich,30,20.934,0,
+37,male,unskilled_and_non-resident,own,little,moderate,9,18.893,0,
+45,male,unskilled_and_non-resident,own,little,little,28,20.36,1,12.7140377
+30,male,skilled,free,moderate,moderate,24,16.165,0,
+30,male,skilled,rent,little,little,6,15.911,0,
+47,male,skilled,own,little,moderate,21,18.63,0,
+29,male,skilled,own,little,moderate,15,15.076,0,
+35,male,skilled,own,quite rich,moderate,24,17.792,0,
+22,male,unskilled_and_non-resident,own,little,moderate,6,15.753,0,
+26,female,skilled,own,little,moderate,30,20.107,0,
+23,male,unskilled_and_non-resident,own,quite rich,moderate,27,17.771,0,
+54,female,highly skilled,rent,little,little,15,18.92,0,
+29,male,skilled,rent,little,moderate,42,18.309,1,11.0525847
+40,male,unskilled_and_non-resident,own,little,little,11,18.346,0,
+22,male,skilled,own,moderate,moderate,15,17.462,0,
+43,male,unskilled_and_non-resident,own,little,little,24,15.128,0,
+29,female,unskilled_and_non-resident,rent,little,little,24,18.283,1,14.32699017
+36,male,skilled,rent,little,little,60,19.014,1,7.310259754
+33,female,skilled,own,little,little,30,15.576,0,
+57,female,unskilled_and_non-resident,own,quite rich,rich,24,17.266,0,
+64,female,skilled,own,little,moderate,6,16.37,0,
+42,male,skilled,own,little,moderate,18,19.778,0,
+47,male,unskilled_and_non-resident,own,little,little,24,17.438,0,
+25,male,skilled,rent,moderate,moderate,15,17.486,1,15.83608036
+49,male,skilled,own,little,moderate,30,18.791,1,10.97286758
+33,male,unskilled_and_non-resident,rent,little,little,48,15.283,1,6.782232061
+28,female,highly skilled,own,moderate,rich,21,16.486,0,
+26,male,skilled,own,little,little,36,18.864,0,
+30,male,unskilled_and_non-resident,own,little,little,24,15.861,0,
+25,female,skilled,rent,little,little,15,17.666,1,17.65818427
+33,male,skilled,own,little,rich,42,18.979,0,
+64,female,skilled,own,moderate,moderate,13,17.659,0,
+29,male,unskilled_and_non-resident,free,little,little,24,17.52,1,14.70262248
+48,male,unskilled_and_non-resident,own,little,moderate,24,15.027,0,
+37,male,unskilled_and_non-resident,own,little,moderate,12,18.379,0,
+34,male,unskilled_and_non-resident,own,moderate,moderate,15,16.432,0,
+23,male,unskilled_and_non-resident,rent,little,little,18,19.347,1,18.58727771
+30,male,highly skilled,own,little,little,36,15.157,0,
+50,male,skilled,own,little,moderate,12,15.992,0,
+31,female,unskilled_and_non-resident,own,little,little,12,18.447,0,
+40,male,highly skilled,own,little,little,30,16.599,0,
+38,male,skilled,own,little,little,12,18.726,0,
+23,male,skilled,free,little,little,45,19.283,1,10.38429865
+27,male,skilled,own,moderate,moderate,45,20.851,0,
